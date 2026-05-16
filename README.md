@@ -1,4 +1,3 @@
-# Assignment-Module-5_Part-1_Parul-Mital
 1     # Part 1: Neural Network Fundamentals and Training Behavior Analysis
 2     
 3     ## 📌 Problem Statement
@@ -114,5 +113,9 @@
 113     ## ✅ Conclusion
 114     
 115     The neural network successfully captured patterns in customer behaviour affecting churn. This project helped in understanding the core principles of neural network training, including forward pass, loss computation, and backpropagation.
+116     
+117     ---
+118     
+119     ## 📁 Repository Structure
 120     
 
